@@ -35,15 +35,14 @@ The live site/demo is here:
 #### Project Requirements:  <a name="requirements"></a>
 
 MVP Features 
-- Maps
-- Shopping Cart mechanism 
-- Check Out Flow
+- Maps/Find address 
+- Authenticate
+- Select which rideshare 
 
 
 Extra
-- Search Products functionality 
-- LogIn/Authentication 
-- Quick Shop WorkFlow
+- Build out confirmation page 
+- Ride tracker
 
 
 
